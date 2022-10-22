@@ -41,6 +41,10 @@ helper.defaultsDialog = (function () {
                 key: "throttle_idle",
                 value: 5
             },
+            {
+                key: "rc_filter_auto",
+                value: "ON"
+            },
             /*
             Filtering
             */
@@ -235,6 +239,10 @@ helper.defaultsDialog = (function () {
             {
                 key: "throttle_idle",
                 value: 5
+            },
+            {
+                key: "rc_filter_auto",
+                value: "ON"
             },
             /*
             Filtering
