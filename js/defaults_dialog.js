@@ -35,7 +35,7 @@ helper.defaultsDialog = (function () {
             },
             {
                 key: "motor_pwm_protocol",
-                value: "DSHOT600"
+                value: "DSHOT300"
             },
             {
                 key: "throttle_idle",
