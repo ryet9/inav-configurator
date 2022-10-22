@@ -35,11 +35,11 @@ helper.defaultsDialog = (function () {
             },
             {
                 key: "motor_pwm_protocol",
-                value: "DSHOT300"
+                value: "DSHOT600"
             },
             {
                 key: "throttle_idle",
-                value: 5.0
+                value: 5
             },
             /*
             Filtering
@@ -234,7 +234,7 @@ helper.defaultsDialog = (function () {
             },
             {
                 key: "throttle_idle",
-                value: 5.0
+                value: 5
             },
             /*
             Filtering
